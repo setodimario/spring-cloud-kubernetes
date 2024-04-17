@@ -1,4 +1,4 @@
-package com.seto.springcloud.msvc.usuarios.model.entity;
+package com.seto.springcloud.msvc.usuarios.models.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
